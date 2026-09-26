@@ -27,7 +27,6 @@ ParkNxt | React.js, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
 Firebase authentication and real-time updates for secure and reliable access.
 • Implemented a digital payment workflow enabling users to complete payments upon arrival, improving the overall
 parking experience.
----
 
 
 📫 Connect With Me
