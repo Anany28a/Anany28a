@@ -1,28 +1,24 @@
 Hi there, I'm Ananya kathal 👋
 
- 🚀Software Development Engineer]
+ 🚀**Software Development Engineer]**
 I am a software engineer with around 2 years of experience** specializing in building scalable web applications, distributed systems, and clean APIs. Currently open to new opportunities in Devops/ Cloud Engineer / Software Development roles.
 
 
  💻 Tech Stack & Capabilities
 
-Languages: Python, JavaScript, C++
-Frontend: React.js, HTML5, CSS3, TailwindCSS, Bootstrap
-Backend: Node.js, Express.js, REST APIs, Boto3
-Databases: PostgreSQL, MongoDB
-Cloud & DevOps: AWS Lambda, EC2, EBS, RDS, SNS, CloudWatch, AWS Health
-Cloud Automation: Serverless Architecture, FinOps, Infrastructure Automation, Scheduled Jobs
-Integrations: Jira API, SNS Notifications, AI Integration
+**Languages**: Python, JavaScript, C++
+**Frontend**: React.js, HTML5, CSS3, TailwindCSS, Bootstrap
+**Backend**: Node.js, Express.js, REST APIs
 
 🛠️ Key Featured Projects
 
-Home-Hive | React.js, Redux Toolkit, TailwindCSS, Material UI, Node.js, Express.js, MongoDB 
+**Home-Hive** | React.js, Redux Toolkit, TailwindCSS, Material UI, Node.js, Express.js, MongoDB 
 • Developed a full-stack student housing platform connecting students with rental accommodations near educational
 institutions while enabling property owners to list student-friendly properties with detailed descriptions and images.
 • Implemented property filtering based on location, amenities, and budget, helping students efficiently discover
 accommodations aligned with their preferences.
 
-ParkNxt | React.js, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
+**ParkNxt** | React.js, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
 • Designed and developed a smart parking platform to simplify parking discovery and reduce congestion, integrating
 Firebase authentication and real-time updates for secure and reliable access.
 • Implemented a digital payment workflow enabling users to complete payments upon arrival, improving the overall
