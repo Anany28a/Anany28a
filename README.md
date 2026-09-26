@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @Anany28a
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there, I'm Ananya kathal 👋
 
-<!---
-Anany28a/Anany28a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 🚀Software Development Engineer]
+I am a software engineer with around 2 years of experience** specializing in building scalable web applications, distributed systems, and clean APIs. Currently open to new opportunities in Devops/ Cloud Engineer / Software Development roles.
+
+
+ 💻 Tech Stack & Capabilities
+
+Languages: Python, JavaScript, C++
+Frontend: React.js, HTML5, CSS3, TailwindCSS, Bootstrap
+Backend: Node.js, Express.js, REST APIs, Boto3
+Databases: PostgreSQL, MongoDB
+Cloud & DevOps: AWS Lambda, EC2, EBS, RDS, SNS, CloudWatch, AWS Health
+Cloud Automation: Serverless Architecture, FinOps, Infrastructure Automation, Scheduled Jobs
+Integrations: Jira API, SNS Notifications, AI Integration
+
+🛠️ Key Featured Projects
+
+Home-Hive | React.js, Redux Toolkit, TailwindCSS, Material UI, Node.js, Express.js, MongoDB 
+• Developed a full-stack student housing platform connecting students with rental accommodations near educational
+institutions while enabling property owners to list student-friendly properties with detailed descriptions and images.
+• Implemented property filtering based on location, amenities, and budget, helping students efficiently discover
+accommodations aligned with their preferences.
+
+ParkNxt | React.js, Node.js, Express.js, MongoDB, Firebase, TailwindCSS
+• Designed and developed a smart parking platform to simplify parking discovery and reduce congestion, integrating
+Firebase authentication and real-time updates for secure and reliable access.
+• Implemented a digital payment workflow enabling users to complete payments upon arrival, improving the overall
+parking experience.
+---
+
+
+📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ananya-kathal-2b14b424b
+- 📧 Email: ananyakathal2810@gmail.com
