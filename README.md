@@ -16,12 +16,12 @@ I am a software engineer with **around 2 years of experience** specializing in b
 
 ### 🛠️ Key Featured Projects
 
-#### 🏡 [Home-Hive](https://github.com/ananyakathal/home-hive) | [Live Demo](https://your-demo-link.com)
+#### 🏡 [Home-Hive] | 
 - **Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Node.js, Express.js, MongoDB
 - Developed a full-stack student housing platform connecting students with rental accommodations near educational institutions while enabling property owners to list student-friendly properties with detailed descriptions and images.
 - Implemented property filtering based on location, amenities, and budget, helping students efficiently discover accommodations aligned with their preferences.
 
-#### 🅿️ [ParkNxt](https://github.com/ananyakathal/parknxt) | [Live Demo](https://your-demo-link.com)
+#### 🅿️ [ParkNxt]| 
 - **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS
 - Designed and developed a smart parking platform to simplify parking discovery and reduce congestion, integrating Firebase authentication and real-time updates for secure and reliable access.
 - Implemented a digital payment workflow enabling users to complete payments upon arrival, improving the overall parking experience.
